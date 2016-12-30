@@ -16,3 +16,12 @@ Next, it will make a screenshot and sends the passwords + the screenshot to the 
 <b>2.)</b> Python main.py<br>
 <b>3.)</b> Fill in gmail email and password<br>
 <b>4.)</b> Run payload.txt <br>
+
+
+#Obfuscation
+
+G_Entry uses https://pypi.python.org/pypi/Opy for code obfuscation<br>
+How the code looks when obfuscated:<br>
+
+![alt tag](https://github.com/raoulbigg/G_Entry-backdoor/blob/master/obfuscated.png?raw=true)
+
