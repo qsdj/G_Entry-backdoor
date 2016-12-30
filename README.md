@@ -11,7 +11,7 @@ Next, it will make a screenshot and sends the passwords + the screenshot to the 
 ![alt tag](https://github.com/AlessandroZ/LaZagne/blob/master/pictures/softwares.png)
 
 #Usage
-
+<b>(Make sure you installed Py2Exe)</b>
 <b>1.)</b> unrar lazagne.rar<br>
 <b>2.)</b> Python main.py<br>
 <b>3.)</b> Fill in gmail email and password<br>
