@@ -12,10 +12,9 @@ Next, it will make a screenshot and sends the passwords + the screenshot to the 
 
 #Usage
 <b>(Make sure you installed Py2Exe)</b><br>
-<b>1.)</b> unrar lazagne.rar<br>
-<b>2.)</b> Python main.py<br>
-<b>3.)</b> Fill in gmail email and password<br>
-<b>4.)</b> Run payload.txt <br>
+<b>1.)</b> Python main.py<br>
+<b>2.)</b> Fill in gmail email and password<br>
+<b>3.)</b> Run payload.txt <br>
 
 
 #Obfuscation
