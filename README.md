@@ -2,6 +2,7 @@
 Backdoor obfuscated with https://pypi.python.org/pypi/Opy <br>
 and <b>disguised as a txt file</b> uses https://github.com/AlessandroZ/LaZagne/releases to grab all passwords.
 Next, it will make a screenshot and sends the passwords + the screenshot to the specified Gmail address.
+I am not responsible for any hacking related activities done with this program.
 
 #Example
 
